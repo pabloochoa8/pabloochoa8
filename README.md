@@ -1,16 +1,22 @@
-## Hi there 👋
+# Pablo Ochoa Izaguirre
 
-<!--
-**pabloochoa8/pabloochoa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics and Autonomous Systems Engineer based in Madrid.
 
-Here are some ideas to get you started:
+I currently work on autonomous UAV navigation at CVAR-UPM, mainly using ROS 2, C++ and Python. My experience includes GNSS-denied navigation, sensor fusion, VIO/SLAM, path planning, simulation and testing on real robotic platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main interests
+- Autonomous mobile robots and UAVs
+- Navigation, localization and SLAM
+- Sensor fusion and state estimation
+- Robotics software with ROS 2 and C++
+- Simulation and real-system integration
+
+### Technologies
+ROS 2 · C++ · Python · Linux · Docker · Gazebo · OpenCV · TF2 · EKF · OpenVINS · OctoMap
+
+### Selected projects
+- Autonomous ground rover for the SENER Aerospace Challenge
+- 3D autonomous UAV navigation with Aerostack2
+- Real UAV navigation and integration for IMAV 2026
+
+[LinkedIn](https://www.linkedin.com/in/pabloochoa-/)
